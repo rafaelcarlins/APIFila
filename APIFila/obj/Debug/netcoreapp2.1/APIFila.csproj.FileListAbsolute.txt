@@ -1,0 +1,17 @@
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\APIFila.deps.json
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\APIFila.runtimeconfig.json
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\APIFila.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\APIFila.dll
+C:\Users\Rafael\source\repos\APIFila\APIFila\bin\Debug\netcoreapp2.1\APIFila.pdb
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.RazorAssemblyInfo.cache
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.RazorAssemblyInfo.cs
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.RazorTargetAssemblyInfo.cache
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.dll
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.pdb
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\APIFila\APIFila\obj\Debug\netcoreapp2.1\APIFila.csprojAssemblyReference.cache
